@@ -188,7 +188,7 @@ class MyAppState extends State<MyApp> {
 
     scaffoldMessengerKey.currentState?.showSnackBar(
       SnackBar(
-        content: Text('${item.name} is added to cart'),
+        content: Text('${item.name} testestesis added to cart'),
         duration: const Duration(seconds: 2),
       ),
     );
