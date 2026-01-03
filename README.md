@@ -1,3 +1,5 @@
-# nimarket
+# Nimarket
 
-A new Flutter project.
+Framework : Flutter
+
+Database : Firebase & Supabase
